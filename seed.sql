@@ -1,0 +1,22 @@
+-- Carga las 20 mascotas de ejemplo (ejecutar una vez en el SQL Editor)
+insert into mascota (nombre, especie, raza, edad, foto_url, descripcion, estado) values
+  ('Luna','perro','Labrador',2,'https://images.unsplash.com/photo-1552053831-71594a27632d?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Max','perro','Pastor alemán',3,'https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Coco','perro','Beagle',1,'https://images.unsplash.com/photo-1505628346881-b72b27e84530?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Rocky','perro','Boxer',4,'https://images.unsplash.com/photo-1583512603805-3cc6b41f3edb?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D','Busca un hogar lleno de cariño.','disponible'),
+  ('Nala','perro','Golden retriever',2,'https://images.unsplash.com/photo-1558788353-f76d92427f16?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Toby','perro','Mestizo',5,'https://images.unsplash.com/photo-1735989967755-706e5edcb44b?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D','Busca un hogar lleno de cariño.','disponible'),
+  ('Maya','perro','Husky',3,'https://images.unsplash.com/photo-1605568427561-40dd23c2acea?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Bruno','perro','Bulldog',4,'https://images.unsplash.com/photo-1583337130417-3346a1be7dee?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Simba','perro','Cocker spaniel',2,'https://images.unsplash.com/photo-1517849845537-4d257902454a?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Daisy','perro','Poodle',1,'https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Michi','gato','Gato doméstico',2,'https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Pelusa','gato','Persa',3,'https://images.unsplash.com/photo-1573865526739-10659fec78a5?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Oliver','gato','Atigrado',1,'https://images.unsplash.com/photo-1519052537078-e6302a4968d4?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Milo','gato','Siamés',2,'https://images.unsplash.com/photo-1561948955-570b270e7c36?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Canela','gato','Carey',4,'https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Tom','gato','Mestizo',5,'https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Lola','gato','Angora',2,'https://images.unsplash.com/photo-1574158622682-e40e69881006?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Nina','gato','Gato blanco',1,'https://images.unsplash.com/photo-1495366822987-7c75f0fcbab4?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Simón','gato','Gato negro',3,'https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=600','Busca un hogar lleno de cariño.','disponible'),
+  ('Cleo','gato','Gato tricolor',2,'https://images.unsplash.com/photo-1543852786-1cf6624b9987?w=600','Busca un hogar lleno de cariño.','disponible');

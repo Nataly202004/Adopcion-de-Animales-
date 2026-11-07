@@ -1,0 +1,6 @@
+node_modules/
+.env
+.vercel
+mi_bd_datos/
+*.db
+logfile
